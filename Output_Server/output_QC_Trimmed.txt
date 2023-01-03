@@ -1,0 +1,1014 @@
+Working with V350129622_L01_100.
+ 
+Started analysis of V350129622_L01_100_1P.fq.gz
+Approx 5% complete for V350129622_L01_100_1P.fq.gz
+Approx 10% complete for V350129622_L01_100_1P.fq.gz
+Approx 15% complete for V350129622_L01_100_1P.fq.gz
+Approx 20% complete for V350129622_L01_100_1P.fq.gz
+Approx 25% complete for V350129622_L01_100_1P.fq.gz
+Approx 30% complete for V350129622_L01_100_1P.fq.gz
+Approx 35% complete for V350129622_L01_100_1P.fq.gz
+Approx 40% complete for V350129622_L01_100_1P.fq.gz
+Approx 45% complete for V350129622_L01_100_1P.fq.gz
+Approx 50% complete for V350129622_L01_100_1P.fq.gz
+Approx 55% complete for V350129622_L01_100_1P.fq.gz
+Approx 60% complete for V350129622_L01_100_1P.fq.gz
+Approx 65% complete for V350129622_L01_100_1P.fq.gz
+Approx 70% complete for V350129622_L01_100_1P.fq.gz
+Approx 75% complete for V350129622_L01_100_1P.fq.gz
+Approx 80% complete for V350129622_L01_100_1P.fq.gz
+Approx 85% complete for V350129622_L01_100_1P.fq.gz
+Approx 90% complete for V350129622_L01_100_1P.fq.gz
+Approx 95% complete for V350129622_L01_100_1P.fq.gz
+Analysis complete for V350129622_L01_100_1P.fq.gz
+Started analysis of V350129622_L01_100_2P.fq.gz
+Approx 5% complete for V350129622_L01_100_2P.fq.gz
+Approx 10% complete for V350129622_L01_100_2P.fq.gz
+Approx 15% complete for V350129622_L01_100_2P.fq.gz
+Approx 20% complete for V350129622_L01_100_2P.fq.gz
+Approx 25% complete for V350129622_L01_100_2P.fq.gz
+Approx 30% complete for V350129622_L01_100_2P.fq.gz
+Approx 35% complete for V350129622_L01_100_2P.fq.gz
+Approx 40% complete for V350129622_L01_100_2P.fq.gz
+Approx 45% complete for V350129622_L01_100_2P.fq.gz
+Approx 50% complete for V350129622_L01_100_2P.fq.gz
+Approx 55% complete for V350129622_L01_100_2P.fq.gz
+Approx 60% complete for V350129622_L01_100_2P.fq.gz
+Approx 65% complete for V350129622_L01_100_2P.fq.gz
+Approx 70% complete for V350129622_L01_100_2P.fq.gz
+Approx 75% complete for V350129622_L01_100_2P.fq.gz
+Approx 80% complete for V350129622_L01_100_2P.fq.gz
+Approx 85% complete for V350129622_L01_100_2P.fq.gz
+Approx 90% complete for V350129622_L01_100_2P.fq.gz
+Approx 95% complete for V350129622_L01_100_2P.fq.gz
+Analysis complete for V350129622_L01_100_2P.fq.gz
+Working with V350129622_L01_101.
+ 
+Started analysis of V350129622_L01_101_1P.fq.gz
+Approx 5% complete for V350129622_L01_101_1P.fq.gz
+Approx 10% complete for V350129622_L01_101_1P.fq.gz
+Approx 15% complete for V350129622_L01_101_1P.fq.gz
+Approx 20% complete for V350129622_L01_101_1P.fq.gz
+Approx 25% complete for V350129622_L01_101_1P.fq.gz
+Approx 30% complete for V350129622_L01_101_1P.fq.gz
+Approx 35% complete for V350129622_L01_101_1P.fq.gz
+Approx 40% complete for V350129622_L01_101_1P.fq.gz
+Approx 45% complete for V350129622_L01_101_1P.fq.gz
+Approx 50% complete for V350129622_L01_101_1P.fq.gz
+Approx 55% complete for V350129622_L01_101_1P.fq.gz
+Approx 60% complete for V350129622_L01_101_1P.fq.gz
+Approx 65% complete for V350129622_L01_101_1P.fq.gz
+Approx 70% complete for V350129622_L01_101_1P.fq.gz
+Approx 75% complete for V350129622_L01_101_1P.fq.gz
+Approx 80% complete for V350129622_L01_101_1P.fq.gz
+Approx 85% complete for V350129622_L01_101_1P.fq.gz
+Approx 90% complete for V350129622_L01_101_1P.fq.gz
+Approx 95% complete for V350129622_L01_101_1P.fq.gz
+Analysis complete for V350129622_L01_101_1P.fq.gz
+Started analysis of V350129622_L01_101_2P.fq.gz
+Approx 5% complete for V350129622_L01_101_2P.fq.gz
+Approx 10% complete for V350129622_L01_101_2P.fq.gz
+Approx 15% complete for V350129622_L01_101_2P.fq.gz
+Approx 20% complete for V350129622_L01_101_2P.fq.gz
+Approx 25% complete for V350129622_L01_101_2P.fq.gz
+Approx 30% complete for V350129622_L01_101_2P.fq.gz
+Approx 35% complete for V350129622_L01_101_2P.fq.gz
+Approx 40% complete for V350129622_L01_101_2P.fq.gz
+Approx 45% complete for V350129622_L01_101_2P.fq.gz
+Approx 50% complete for V350129622_L01_101_2P.fq.gz
+Approx 55% complete for V350129622_L01_101_2P.fq.gz
+Approx 60% complete for V350129622_L01_101_2P.fq.gz
+Approx 65% complete for V350129622_L01_101_2P.fq.gz
+Approx 70% complete for V350129622_L01_101_2P.fq.gz
+Approx 75% complete for V350129622_L01_101_2P.fq.gz
+Approx 80% complete for V350129622_L01_101_2P.fq.gz
+Approx 85% complete for V350129622_L01_101_2P.fq.gz
+Approx 90% complete for V350129622_L01_101_2P.fq.gz
+Approx 95% complete for V350129622_L01_101_2P.fq.gz
+Analysis complete for V350129622_L01_101_2P.fq.gz
+Working with V350129622_L01_102.
+ 
+Started analysis of V350129622_L01_102_1P.fq.gz
+Approx 5% complete for V350129622_L01_102_1P.fq.gz
+Approx 10% complete for V350129622_L01_102_1P.fq.gz
+Approx 15% complete for V350129622_L01_102_1P.fq.gz
+Approx 20% complete for V350129622_L01_102_1P.fq.gz
+Approx 25% complete for V350129622_L01_102_1P.fq.gz
+Approx 30% complete for V350129622_L01_102_1P.fq.gz
+Approx 35% complete for V350129622_L01_102_1P.fq.gz
+Approx 40% complete for V350129622_L01_102_1P.fq.gz
+Approx 45% complete for V350129622_L01_102_1P.fq.gz
+Approx 50% complete for V350129622_L01_102_1P.fq.gz
+Approx 55% complete for V350129622_L01_102_1P.fq.gz
+Approx 60% complete for V350129622_L01_102_1P.fq.gz
+Approx 65% complete for V350129622_L01_102_1P.fq.gz
+Approx 70% complete for V350129622_L01_102_1P.fq.gz
+Approx 75% complete for V350129622_L01_102_1P.fq.gz
+Approx 80% complete for V350129622_L01_102_1P.fq.gz
+Approx 85% complete for V350129622_L01_102_1P.fq.gz
+Approx 90% complete for V350129622_L01_102_1P.fq.gz
+Approx 95% complete for V350129622_L01_102_1P.fq.gz
+Analysis complete for V350129622_L01_102_1P.fq.gz
+Started analysis of V350129622_L01_102_2P.fq.gz
+Approx 5% complete for V350129622_L01_102_2P.fq.gz
+Approx 10% complete for V350129622_L01_102_2P.fq.gz
+Approx 15% complete for V350129622_L01_102_2P.fq.gz
+Approx 20% complete for V350129622_L01_102_2P.fq.gz
+Approx 25% complete for V350129622_L01_102_2P.fq.gz
+Approx 30% complete for V350129622_L01_102_2P.fq.gz
+Approx 35% complete for V350129622_L01_102_2P.fq.gz
+Approx 40% complete for V350129622_L01_102_2P.fq.gz
+Approx 45% complete for V350129622_L01_102_2P.fq.gz
+Approx 50% complete for V350129622_L01_102_2P.fq.gz
+Approx 55% complete for V350129622_L01_102_2P.fq.gz
+Approx 60% complete for V350129622_L01_102_2P.fq.gz
+Approx 65% complete for V350129622_L01_102_2P.fq.gz
+Approx 70% complete for V350129622_L01_102_2P.fq.gz
+Approx 75% complete for V350129622_L01_102_2P.fq.gz
+Approx 80% complete for V350129622_L01_102_2P.fq.gz
+Approx 85% complete for V350129622_L01_102_2P.fq.gz
+Approx 90% complete for V350129622_L01_102_2P.fq.gz
+Approx 95% complete for V350129622_L01_102_2P.fq.gz
+Analysis complete for V350129622_L01_102_2P.fq.gz
+Working with V350129622_L01_103.
+ 
+Started analysis of V350129622_L01_103_1P.fq.gz
+Approx 5% complete for V350129622_L01_103_1P.fq.gz
+Approx 10% complete for V350129622_L01_103_1P.fq.gz
+Approx 15% complete for V350129622_L01_103_1P.fq.gz
+Approx 20% complete for V350129622_L01_103_1P.fq.gz
+Approx 25% complete for V350129622_L01_103_1P.fq.gz
+Approx 30% complete for V350129622_L01_103_1P.fq.gz
+Approx 35% complete for V350129622_L01_103_1P.fq.gz
+Approx 40% complete for V350129622_L01_103_1P.fq.gz
+Approx 45% complete for V350129622_L01_103_1P.fq.gz
+Approx 50% complete for V350129622_L01_103_1P.fq.gz
+Approx 55% complete for V350129622_L01_103_1P.fq.gz
+Approx 60% complete for V350129622_L01_103_1P.fq.gz
+Approx 65% complete for V350129622_L01_103_1P.fq.gz
+Approx 70% complete for V350129622_L01_103_1P.fq.gz
+Approx 75% complete for V350129622_L01_103_1P.fq.gz
+Approx 80% complete for V350129622_L01_103_1P.fq.gz
+Approx 85% complete for V350129622_L01_103_1P.fq.gz
+Approx 90% complete for V350129622_L01_103_1P.fq.gz
+Approx 95% complete for V350129622_L01_103_1P.fq.gz
+Analysis complete for V350129622_L01_103_1P.fq.gz
+Started analysis of V350129622_L01_103_2P.fq.gz
+Approx 5% complete for V350129622_L01_103_2P.fq.gz
+Approx 10% complete for V350129622_L01_103_2P.fq.gz
+Approx 15% complete for V350129622_L01_103_2P.fq.gz
+Approx 20% complete for V350129622_L01_103_2P.fq.gz
+Approx 25% complete for V350129622_L01_103_2P.fq.gz
+Approx 30% complete for V350129622_L01_103_2P.fq.gz
+Approx 35% complete for V350129622_L01_103_2P.fq.gz
+Approx 40% complete for V350129622_L01_103_2P.fq.gz
+Approx 45% complete for V350129622_L01_103_2P.fq.gz
+Approx 50% complete for V350129622_L01_103_2P.fq.gz
+Approx 55% complete for V350129622_L01_103_2P.fq.gz
+Approx 60% complete for V350129622_L01_103_2P.fq.gz
+Approx 65% complete for V350129622_L01_103_2P.fq.gz
+Approx 70% complete for V350129622_L01_103_2P.fq.gz
+Approx 75% complete for V350129622_L01_103_2P.fq.gz
+Approx 80% complete for V350129622_L01_103_2P.fq.gz
+Approx 85% complete for V350129622_L01_103_2P.fq.gz
+Approx 90% complete for V350129622_L01_103_2P.fq.gz
+Approx 95% complete for V350129622_L01_103_2P.fq.gz
+Analysis complete for V350129622_L01_103_2P.fq.gz
+Working with V350129622_L01_104.
+ 
+Started analysis of V350129622_L01_104_1P.fq.gz
+Approx 5% complete for V350129622_L01_104_1P.fq.gz
+Approx 10% complete for V350129622_L01_104_1P.fq.gz
+Approx 15% complete for V350129622_L01_104_1P.fq.gz
+Approx 20% complete for V350129622_L01_104_1P.fq.gz
+Approx 25% complete for V350129622_L01_104_1P.fq.gz
+Approx 30% complete for V350129622_L01_104_1P.fq.gz
+Approx 35% complete for V350129622_L01_104_1P.fq.gz
+Approx 40% complete for V350129622_L01_104_1P.fq.gz
+Approx 45% complete for V350129622_L01_104_1P.fq.gz
+Approx 50% complete for V350129622_L01_104_1P.fq.gz
+Approx 55% complete for V350129622_L01_104_1P.fq.gz
+Approx 60% complete for V350129622_L01_104_1P.fq.gz
+Approx 65% complete for V350129622_L01_104_1P.fq.gz
+Approx 70% complete for V350129622_L01_104_1P.fq.gz
+Approx 75% complete for V350129622_L01_104_1P.fq.gz
+Approx 80% complete for V350129622_L01_104_1P.fq.gz
+Approx 85% complete for V350129622_L01_104_1P.fq.gz
+Approx 90% complete for V350129622_L01_104_1P.fq.gz
+Approx 95% complete for V350129622_L01_104_1P.fq.gz
+Analysis complete for V350129622_L01_104_1P.fq.gz
+Started analysis of V350129622_L01_104_2P.fq.gz
+Approx 5% complete for V350129622_L01_104_2P.fq.gz
+Approx 10% complete for V350129622_L01_104_2P.fq.gz
+Approx 15% complete for V350129622_L01_104_2P.fq.gz
+Approx 20% complete for V350129622_L01_104_2P.fq.gz
+Approx 25% complete for V350129622_L01_104_2P.fq.gz
+Approx 30% complete for V350129622_L01_104_2P.fq.gz
+Approx 35% complete for V350129622_L01_104_2P.fq.gz
+Approx 40% complete for V350129622_L01_104_2P.fq.gz
+Approx 45% complete for V350129622_L01_104_2P.fq.gz
+Approx 50% complete for V350129622_L01_104_2P.fq.gz
+Approx 55% complete for V350129622_L01_104_2P.fq.gz
+Approx 60% complete for V350129622_L01_104_2P.fq.gz
+Approx 65% complete for V350129622_L01_104_2P.fq.gz
+Approx 70% complete for V350129622_L01_104_2P.fq.gz
+Approx 75% complete for V350129622_L01_104_2P.fq.gz
+Approx 80% complete for V350129622_L01_104_2P.fq.gz
+Approx 85% complete for V350129622_L01_104_2P.fq.gz
+Approx 90% complete for V350129622_L01_104_2P.fq.gz
+Approx 95% complete for V350129622_L01_104_2P.fq.gz
+Analysis complete for V350129622_L01_104_2P.fq.gz
+Working with V350129622_L01_121.
+ 
+Started analysis of V350129622_L01_121_1P.fq.gz
+Approx 5% complete for V350129622_L01_121_1P.fq.gz
+Approx 10% complete for V350129622_L01_121_1P.fq.gz
+Approx 15% complete for V350129622_L01_121_1P.fq.gz
+Approx 20% complete for V350129622_L01_121_1P.fq.gz
+Approx 25% complete for V350129622_L01_121_1P.fq.gz
+Approx 30% complete for V350129622_L01_121_1P.fq.gz
+Approx 35% complete for V350129622_L01_121_1P.fq.gz
+Approx 40% complete for V350129622_L01_121_1P.fq.gz
+Approx 45% complete for V350129622_L01_121_1P.fq.gz
+Approx 50% complete for V350129622_L01_121_1P.fq.gz
+Approx 55% complete for V350129622_L01_121_1P.fq.gz
+Approx 60% complete for V350129622_L01_121_1P.fq.gz
+Approx 65% complete for V350129622_L01_121_1P.fq.gz
+Approx 70% complete for V350129622_L01_121_1P.fq.gz
+Approx 75% complete for V350129622_L01_121_1P.fq.gz
+Approx 80% complete for V350129622_L01_121_1P.fq.gz
+Approx 85% complete for V350129622_L01_121_1P.fq.gz
+Approx 90% complete for V350129622_L01_121_1P.fq.gz
+Approx 95% complete for V350129622_L01_121_1P.fq.gz
+Analysis complete for V350129622_L01_121_1P.fq.gz
+Started analysis of V350129622_L01_121_2P.fq.gz
+Approx 5% complete for V350129622_L01_121_2P.fq.gz
+Approx 10% complete for V350129622_L01_121_2P.fq.gz
+Approx 15% complete for V350129622_L01_121_2P.fq.gz
+Approx 20% complete for V350129622_L01_121_2P.fq.gz
+Approx 25% complete for V350129622_L01_121_2P.fq.gz
+Approx 30% complete for V350129622_L01_121_2P.fq.gz
+Approx 35% complete for V350129622_L01_121_2P.fq.gz
+Approx 40% complete for V350129622_L01_121_2P.fq.gz
+Approx 45% complete for V350129622_L01_121_2P.fq.gz
+Approx 50% complete for V350129622_L01_121_2P.fq.gz
+Approx 55% complete for V350129622_L01_121_2P.fq.gz
+Approx 60% complete for V350129622_L01_121_2P.fq.gz
+Approx 65% complete for V350129622_L01_121_2P.fq.gz
+Approx 70% complete for V350129622_L01_121_2P.fq.gz
+Approx 75% complete for V350129622_L01_121_2P.fq.gz
+Approx 80% complete for V350129622_L01_121_2P.fq.gz
+Approx 85% complete for V350129622_L01_121_2P.fq.gz
+Approx 90% complete for V350129622_L01_121_2P.fq.gz
+Approx 95% complete for V350129622_L01_121_2P.fq.gz
+Analysis complete for V350129622_L01_121_2P.fq.gz
+Working with V350129622_L01_122.
+ 
+Started analysis of V350129622_L01_122_1P.fq.gz
+Approx 5% complete for V350129622_L01_122_1P.fq.gz
+Approx 10% complete for V350129622_L01_122_1P.fq.gz
+Approx 15% complete for V350129622_L01_122_1P.fq.gz
+Approx 20% complete for V350129622_L01_122_1P.fq.gz
+Approx 25% complete for V350129622_L01_122_1P.fq.gz
+Approx 30% complete for V350129622_L01_122_1P.fq.gz
+Approx 35% complete for V350129622_L01_122_1P.fq.gz
+Approx 40% complete for V350129622_L01_122_1P.fq.gz
+Approx 45% complete for V350129622_L01_122_1P.fq.gz
+Approx 50% complete for V350129622_L01_122_1P.fq.gz
+Approx 55% complete for V350129622_L01_122_1P.fq.gz
+Approx 60% complete for V350129622_L01_122_1P.fq.gz
+Approx 65% complete for V350129622_L01_122_1P.fq.gz
+Approx 70% complete for V350129622_L01_122_1P.fq.gz
+Approx 75% complete for V350129622_L01_122_1P.fq.gz
+Approx 80% complete for V350129622_L01_122_1P.fq.gz
+Approx 85% complete for V350129622_L01_122_1P.fq.gz
+Approx 90% complete for V350129622_L01_122_1P.fq.gz
+Approx 95% complete for V350129622_L01_122_1P.fq.gz
+Analysis complete for V350129622_L01_122_1P.fq.gz
+Started analysis of V350129622_L01_122_2P.fq.gz
+Approx 5% complete for V350129622_L01_122_2P.fq.gz
+Approx 10% complete for V350129622_L01_122_2P.fq.gz
+Approx 15% complete for V350129622_L01_122_2P.fq.gz
+Approx 20% complete for V350129622_L01_122_2P.fq.gz
+Approx 25% complete for V350129622_L01_122_2P.fq.gz
+Approx 30% complete for V350129622_L01_122_2P.fq.gz
+Approx 35% complete for V350129622_L01_122_2P.fq.gz
+Approx 40% complete for V350129622_L01_122_2P.fq.gz
+Approx 45% complete for V350129622_L01_122_2P.fq.gz
+Approx 50% complete for V350129622_L01_122_2P.fq.gz
+Approx 55% complete for V350129622_L01_122_2P.fq.gz
+Approx 60% complete for V350129622_L01_122_2P.fq.gz
+Approx 65% complete for V350129622_L01_122_2P.fq.gz
+Approx 70% complete for V350129622_L01_122_2P.fq.gz
+Approx 75% complete for V350129622_L01_122_2P.fq.gz
+Approx 80% complete for V350129622_L01_122_2P.fq.gz
+Approx 85% complete for V350129622_L01_122_2P.fq.gz
+Approx 90% complete for V350129622_L01_122_2P.fq.gz
+Approx 95% complete for V350129622_L01_122_2P.fq.gz
+Analysis complete for V350129622_L01_122_2P.fq.gz
+Working with V350129622_L01_123.
+ 
+Started analysis of V350129622_L01_123_1P.fq.gz
+Approx 5% complete for V350129622_L01_123_1P.fq.gz
+Approx 10% complete for V350129622_L01_123_1P.fq.gz
+Approx 15% complete for V350129622_L01_123_1P.fq.gz
+Approx 20% complete for V350129622_L01_123_1P.fq.gz
+Approx 25% complete for V350129622_L01_123_1P.fq.gz
+Approx 30% complete for V350129622_L01_123_1P.fq.gz
+Approx 35% complete for V350129622_L01_123_1P.fq.gz
+Approx 40% complete for V350129622_L01_123_1P.fq.gz
+Approx 45% complete for V350129622_L01_123_1P.fq.gz
+Approx 50% complete for V350129622_L01_123_1P.fq.gz
+Approx 55% complete for V350129622_L01_123_1P.fq.gz
+Approx 60% complete for V350129622_L01_123_1P.fq.gz
+Approx 65% complete for V350129622_L01_123_1P.fq.gz
+Approx 70% complete for V350129622_L01_123_1P.fq.gz
+Approx 75% complete for V350129622_L01_123_1P.fq.gz
+Approx 80% complete for V350129622_L01_123_1P.fq.gz
+Approx 85% complete for V350129622_L01_123_1P.fq.gz
+Approx 90% complete for V350129622_L01_123_1P.fq.gz
+Approx 95% complete for V350129622_L01_123_1P.fq.gz
+Analysis complete for V350129622_L01_123_1P.fq.gz
+Started analysis of V350129622_L01_123_2P.fq.gz
+Approx 5% complete for V350129622_L01_123_2P.fq.gz
+Approx 10% complete for V350129622_L01_123_2P.fq.gz
+Approx 15% complete for V350129622_L01_123_2P.fq.gz
+Approx 20% complete for V350129622_L01_123_2P.fq.gz
+Approx 25% complete for V350129622_L01_123_2P.fq.gz
+Approx 30% complete for V350129622_L01_123_2P.fq.gz
+Approx 35% complete for V350129622_L01_123_2P.fq.gz
+Approx 40% complete for V350129622_L01_123_2P.fq.gz
+Approx 45% complete for V350129622_L01_123_2P.fq.gz
+Approx 50% complete for V350129622_L01_123_2P.fq.gz
+Approx 55% complete for V350129622_L01_123_2P.fq.gz
+Approx 60% complete for V350129622_L01_123_2P.fq.gz
+Approx 65% complete for V350129622_L01_123_2P.fq.gz
+Approx 70% complete for V350129622_L01_123_2P.fq.gz
+Approx 75% complete for V350129622_L01_123_2P.fq.gz
+Approx 80% complete for V350129622_L01_123_2P.fq.gz
+Approx 85% complete for V350129622_L01_123_2P.fq.gz
+Approx 90% complete for V350129622_L01_123_2P.fq.gz
+Approx 95% complete for V350129622_L01_123_2P.fq.gz
+Analysis complete for V350129622_L01_123_2P.fq.gz
+Working with V350129622_L01_124.
+ 
+Started analysis of V350129622_L01_124_1P.fq.gz
+Approx 5% complete for V350129622_L01_124_1P.fq.gz
+Approx 10% complete for V350129622_L01_124_1P.fq.gz
+Approx 15% complete for V350129622_L01_124_1P.fq.gz
+Approx 20% complete for V350129622_L01_124_1P.fq.gz
+Approx 25% complete for V350129622_L01_124_1P.fq.gz
+Approx 30% complete for V350129622_L01_124_1P.fq.gz
+Approx 35% complete for V350129622_L01_124_1P.fq.gz
+Approx 40% complete for V350129622_L01_124_1P.fq.gz
+Approx 45% complete for V350129622_L01_124_1P.fq.gz
+Approx 50% complete for V350129622_L01_124_1P.fq.gz
+Approx 55% complete for V350129622_L01_124_1P.fq.gz
+Approx 60% complete for V350129622_L01_124_1P.fq.gz
+Approx 65% complete for V350129622_L01_124_1P.fq.gz
+Approx 70% complete for V350129622_L01_124_1P.fq.gz
+Approx 75% complete for V350129622_L01_124_1P.fq.gz
+Approx 80% complete for V350129622_L01_124_1P.fq.gz
+Approx 85% complete for V350129622_L01_124_1P.fq.gz
+Approx 90% complete for V350129622_L01_124_1P.fq.gz
+Approx 95% complete for V350129622_L01_124_1P.fq.gz
+Analysis complete for V350129622_L01_124_1P.fq.gz
+Started analysis of V350129622_L01_124_2P.fq.gz
+Approx 5% complete for V350129622_L01_124_2P.fq.gz
+Approx 10% complete for V350129622_L01_124_2P.fq.gz
+Approx 15% complete for V350129622_L01_124_2P.fq.gz
+Approx 20% complete for V350129622_L01_124_2P.fq.gz
+Approx 25% complete for V350129622_L01_124_2P.fq.gz
+Approx 30% complete for V350129622_L01_124_2P.fq.gz
+Approx 35% complete for V350129622_L01_124_2P.fq.gz
+Approx 40% complete for V350129622_L01_124_2P.fq.gz
+Approx 45% complete for V350129622_L01_124_2P.fq.gz
+Approx 50% complete for V350129622_L01_124_2P.fq.gz
+Approx 55% complete for V350129622_L01_124_2P.fq.gz
+Approx 60% complete for V350129622_L01_124_2P.fq.gz
+Approx 65% complete for V350129622_L01_124_2P.fq.gz
+Approx 70% complete for V350129622_L01_124_2P.fq.gz
+Approx 75% complete for V350129622_L01_124_2P.fq.gz
+Approx 80% complete for V350129622_L01_124_2P.fq.gz
+Approx 85% complete for V350129622_L01_124_2P.fq.gz
+Approx 90% complete for V350129622_L01_124_2P.fq.gz
+Approx 95% complete for V350129622_L01_124_2P.fq.gz
+Analysis complete for V350129622_L01_124_2P.fq.gz
+Working with V350129622_L01_125.
+ 
+Started analysis of V350129622_L01_125_1P.fq.gz
+Approx 5% complete for V350129622_L01_125_1P.fq.gz
+Approx 10% complete for V350129622_L01_125_1P.fq.gz
+Approx 15% complete for V350129622_L01_125_1P.fq.gz
+Approx 20% complete for V350129622_L01_125_1P.fq.gz
+Approx 25% complete for V350129622_L01_125_1P.fq.gz
+Approx 30% complete for V350129622_L01_125_1P.fq.gz
+Approx 35% complete for V350129622_L01_125_1P.fq.gz
+Approx 40% complete for V350129622_L01_125_1P.fq.gz
+Approx 45% complete for V350129622_L01_125_1P.fq.gz
+Approx 50% complete for V350129622_L01_125_1P.fq.gz
+Approx 55% complete for V350129622_L01_125_1P.fq.gz
+Approx 60% complete for V350129622_L01_125_1P.fq.gz
+Approx 65% complete for V350129622_L01_125_1P.fq.gz
+Approx 70% complete for V350129622_L01_125_1P.fq.gz
+Approx 75% complete for V350129622_L01_125_1P.fq.gz
+Approx 80% complete for V350129622_L01_125_1P.fq.gz
+Approx 85% complete for V350129622_L01_125_1P.fq.gz
+Approx 90% complete for V350129622_L01_125_1P.fq.gz
+Approx 95% complete for V350129622_L01_125_1P.fq.gz
+Analysis complete for V350129622_L01_125_1P.fq.gz
+Started analysis of V350129622_L01_125_2P.fq.gz
+Approx 5% complete for V350129622_L01_125_2P.fq.gz
+Approx 10% complete for V350129622_L01_125_2P.fq.gz
+Approx 15% complete for V350129622_L01_125_2P.fq.gz
+Approx 20% complete for V350129622_L01_125_2P.fq.gz
+Approx 25% complete for V350129622_L01_125_2P.fq.gz
+Approx 30% complete for V350129622_L01_125_2P.fq.gz
+Approx 35% complete for V350129622_L01_125_2P.fq.gz
+Approx 40% complete for V350129622_L01_125_2P.fq.gz
+Approx 45% complete for V350129622_L01_125_2P.fq.gz
+Approx 50% complete for V350129622_L01_125_2P.fq.gz
+Approx 55% complete for V350129622_L01_125_2P.fq.gz
+Approx 60% complete for V350129622_L01_125_2P.fq.gz
+Approx 65% complete for V350129622_L01_125_2P.fq.gz
+Approx 70% complete for V350129622_L01_125_2P.fq.gz
+Approx 75% complete for V350129622_L01_125_2P.fq.gz
+Approx 80% complete for V350129622_L01_125_2P.fq.gz
+Approx 85% complete for V350129622_L01_125_2P.fq.gz
+Approx 90% complete for V350129622_L01_125_2P.fq.gz
+Approx 95% complete for V350129622_L01_125_2P.fq.gz
+Analysis complete for V350129622_L01_125_2P.fq.gz
+Working with V350129622_L01_126.
+ 
+Started analysis of V350129622_L01_126_1P.fq.gz
+Approx 5% complete for V350129622_L01_126_1P.fq.gz
+Approx 10% complete for V350129622_L01_126_1P.fq.gz
+Approx 15% complete for V350129622_L01_126_1P.fq.gz
+Approx 20% complete for V350129622_L01_126_1P.fq.gz
+Approx 25% complete for V350129622_L01_126_1P.fq.gz
+Approx 30% complete for V350129622_L01_126_1P.fq.gz
+Approx 35% complete for V350129622_L01_126_1P.fq.gz
+Approx 40% complete for V350129622_L01_126_1P.fq.gz
+Approx 45% complete for V350129622_L01_126_1P.fq.gz
+Approx 50% complete for V350129622_L01_126_1P.fq.gz
+Approx 55% complete for V350129622_L01_126_1P.fq.gz
+Approx 60% complete for V350129622_L01_126_1P.fq.gz
+Approx 65% complete for V350129622_L01_126_1P.fq.gz
+Approx 70% complete for V350129622_L01_126_1P.fq.gz
+Approx 75% complete for V350129622_L01_126_1P.fq.gz
+Approx 80% complete for V350129622_L01_126_1P.fq.gz
+Approx 85% complete for V350129622_L01_126_1P.fq.gz
+Approx 90% complete for V350129622_L01_126_1P.fq.gz
+Approx 95% complete for V350129622_L01_126_1P.fq.gz
+Analysis complete for V350129622_L01_126_1P.fq.gz
+Started analysis of V350129622_L01_126_2P.fq.gz
+Approx 5% complete for V350129622_L01_126_2P.fq.gz
+Approx 10% complete for V350129622_L01_126_2P.fq.gz
+Approx 15% complete for V350129622_L01_126_2P.fq.gz
+Approx 20% complete for V350129622_L01_126_2P.fq.gz
+Approx 25% complete for V350129622_L01_126_2P.fq.gz
+Approx 30% complete for V350129622_L01_126_2P.fq.gz
+Approx 35% complete for V350129622_L01_126_2P.fq.gz
+Approx 40% complete for V350129622_L01_126_2P.fq.gz
+Approx 45% complete for V350129622_L01_126_2P.fq.gz
+Approx 50% complete for V350129622_L01_126_2P.fq.gz
+Approx 55% complete for V350129622_L01_126_2P.fq.gz
+Approx 60% complete for V350129622_L01_126_2P.fq.gz
+Approx 65% complete for V350129622_L01_126_2P.fq.gz
+Approx 70% complete for V350129622_L01_126_2P.fq.gz
+Approx 75% complete for V350129622_L01_126_2P.fq.gz
+Approx 80% complete for V350129622_L01_126_2P.fq.gz
+Approx 85% complete for V350129622_L01_126_2P.fq.gz
+Approx 90% complete for V350129622_L01_126_2P.fq.gz
+Approx 95% complete for V350129622_L01_126_2P.fq.gz
+Analysis complete for V350129622_L01_126_2P.fq.gz
+Working with V350129622_L01_127.
+ 
+Started analysis of V350129622_L01_127_1P.fq.gz
+Approx 5% complete for V350129622_L01_127_1P.fq.gz
+Approx 10% complete for V350129622_L01_127_1P.fq.gz
+Approx 15% complete for V350129622_L01_127_1P.fq.gz
+Approx 20% complete for V350129622_L01_127_1P.fq.gz
+Approx 25% complete for V350129622_L01_127_1P.fq.gz
+Approx 30% complete for V350129622_L01_127_1P.fq.gz
+Approx 35% complete for V350129622_L01_127_1P.fq.gz
+Approx 40% complete for V350129622_L01_127_1P.fq.gz
+Approx 45% complete for V350129622_L01_127_1P.fq.gz
+Approx 50% complete for V350129622_L01_127_1P.fq.gz
+Approx 55% complete for V350129622_L01_127_1P.fq.gz
+Approx 60% complete for V350129622_L01_127_1P.fq.gz
+Approx 65% complete for V350129622_L01_127_1P.fq.gz
+Approx 70% complete for V350129622_L01_127_1P.fq.gz
+Approx 75% complete for V350129622_L01_127_1P.fq.gz
+Approx 80% complete for V350129622_L01_127_1P.fq.gz
+Approx 85% complete for V350129622_L01_127_1P.fq.gz
+Approx 90% complete for V350129622_L01_127_1P.fq.gz
+Approx 95% complete for V350129622_L01_127_1P.fq.gz
+Analysis complete for V350129622_L01_127_1P.fq.gz
+Started analysis of V350129622_L01_127_2P.fq.gz
+Approx 5% complete for V350129622_L01_127_2P.fq.gz
+Approx 10% complete for V350129622_L01_127_2P.fq.gz
+Approx 15% complete for V350129622_L01_127_2P.fq.gz
+Approx 20% complete for V350129622_L01_127_2P.fq.gz
+Approx 25% complete for V350129622_L01_127_2P.fq.gz
+Approx 30% complete for V350129622_L01_127_2P.fq.gz
+Approx 35% complete for V350129622_L01_127_2P.fq.gz
+Approx 40% complete for V350129622_L01_127_2P.fq.gz
+Approx 45% complete for V350129622_L01_127_2P.fq.gz
+Approx 50% complete for V350129622_L01_127_2P.fq.gz
+Approx 55% complete for V350129622_L01_127_2P.fq.gz
+Approx 60% complete for V350129622_L01_127_2P.fq.gz
+Approx 65% complete for V350129622_L01_127_2P.fq.gz
+Approx 70% complete for V350129622_L01_127_2P.fq.gz
+Approx 75% complete for V350129622_L01_127_2P.fq.gz
+Approx 80% complete for V350129622_L01_127_2P.fq.gz
+Approx 85% complete for V350129622_L01_127_2P.fq.gz
+Approx 90% complete for V350129622_L01_127_2P.fq.gz
+Approx 95% complete for V350129622_L01_127_2P.fq.gz
+Analysis complete for V350129622_L01_127_2P.fq.gz
+Working with V350129622_L01_128.
+ 
+Started analysis of V350129622_L01_128_1P.fq.gz
+Approx 5% complete for V350129622_L01_128_1P.fq.gz
+Approx 10% complete for V350129622_L01_128_1P.fq.gz
+Approx 15% complete for V350129622_L01_128_1P.fq.gz
+Approx 20% complete for V350129622_L01_128_1P.fq.gz
+Approx 25% complete for V350129622_L01_128_1P.fq.gz
+Approx 30% complete for V350129622_L01_128_1P.fq.gz
+Approx 35% complete for V350129622_L01_128_1P.fq.gz
+Approx 40% complete for V350129622_L01_128_1P.fq.gz
+Approx 45% complete for V350129622_L01_128_1P.fq.gz
+Approx 50% complete for V350129622_L01_128_1P.fq.gz
+Approx 55% complete for V350129622_L01_128_1P.fq.gz
+Approx 60% complete for V350129622_L01_128_1P.fq.gz
+Approx 65% complete for V350129622_L01_128_1P.fq.gz
+Approx 70% complete for V350129622_L01_128_1P.fq.gz
+Approx 75% complete for V350129622_L01_128_1P.fq.gz
+Approx 80% complete for V350129622_L01_128_1P.fq.gz
+Approx 85% complete for V350129622_L01_128_1P.fq.gz
+Approx 90% complete for V350129622_L01_128_1P.fq.gz
+Approx 95% complete for V350129622_L01_128_1P.fq.gz
+Analysis complete for V350129622_L01_128_1P.fq.gz
+Started analysis of V350129622_L01_128_2P.fq.gz
+Approx 5% complete for V350129622_L01_128_2P.fq.gz
+Approx 10% complete for V350129622_L01_128_2P.fq.gz
+Approx 15% complete for V350129622_L01_128_2P.fq.gz
+Approx 20% complete for V350129622_L01_128_2P.fq.gz
+Approx 25% complete for V350129622_L01_128_2P.fq.gz
+Approx 30% complete for V350129622_L01_128_2P.fq.gz
+Approx 35% complete for V350129622_L01_128_2P.fq.gz
+Approx 40% complete for V350129622_L01_128_2P.fq.gz
+Approx 45% complete for V350129622_L01_128_2P.fq.gz
+Approx 50% complete for V350129622_L01_128_2P.fq.gz
+Approx 55% complete for V350129622_L01_128_2P.fq.gz
+Approx 60% complete for V350129622_L01_128_2P.fq.gz
+Approx 65% complete for V350129622_L01_128_2P.fq.gz
+Approx 70% complete for V350129622_L01_128_2P.fq.gz
+Approx 75% complete for V350129622_L01_128_2P.fq.gz
+Approx 80% complete for V350129622_L01_128_2P.fq.gz
+Approx 85% complete for V350129622_L01_128_2P.fq.gz
+Approx 90% complete for V350129622_L01_128_2P.fq.gz
+Approx 95% complete for V350129622_L01_128_2P.fq.gz
+Analysis complete for V350129622_L01_128_2P.fq.gz
+Working with V350129622_L01_89.
+ 
+Started analysis of V350129622_L01_89_1P.fq.gz
+Approx 5% complete for V350129622_L01_89_1P.fq.gz
+Approx 10% complete for V350129622_L01_89_1P.fq.gz
+Approx 15% complete for V350129622_L01_89_1P.fq.gz
+Approx 20% complete for V350129622_L01_89_1P.fq.gz
+Approx 25% complete for V350129622_L01_89_1P.fq.gz
+Approx 30% complete for V350129622_L01_89_1P.fq.gz
+Approx 35% complete for V350129622_L01_89_1P.fq.gz
+Approx 40% complete for V350129622_L01_89_1P.fq.gz
+Approx 45% complete for V350129622_L01_89_1P.fq.gz
+Approx 50% complete for V350129622_L01_89_1P.fq.gz
+Approx 55% complete for V350129622_L01_89_1P.fq.gz
+Approx 60% complete for V350129622_L01_89_1P.fq.gz
+Approx 65% complete for V350129622_L01_89_1P.fq.gz
+Approx 70% complete for V350129622_L01_89_1P.fq.gz
+Approx 75% complete for V350129622_L01_89_1P.fq.gz
+Approx 80% complete for V350129622_L01_89_1P.fq.gz
+Approx 85% complete for V350129622_L01_89_1P.fq.gz
+Approx 90% complete for V350129622_L01_89_1P.fq.gz
+Approx 95% complete for V350129622_L01_89_1P.fq.gz
+Approx 100% complete for V350129622_L01_89_1P.fq.gz
+Analysis complete for V350129622_L01_89_1P.fq.gz
+Started analysis of V350129622_L01_89_2P.fq.gz
+Approx 5% complete for V350129622_L01_89_2P.fq.gz
+Approx 10% complete for V350129622_L01_89_2P.fq.gz
+Approx 15% complete for V350129622_L01_89_2P.fq.gz
+Approx 20% complete for V350129622_L01_89_2P.fq.gz
+Approx 25% complete for V350129622_L01_89_2P.fq.gz
+Approx 30% complete for V350129622_L01_89_2P.fq.gz
+Approx 35% complete for V350129622_L01_89_2P.fq.gz
+Approx 40% complete for V350129622_L01_89_2P.fq.gz
+Approx 45% complete for V350129622_L01_89_2P.fq.gz
+Approx 50% complete for V350129622_L01_89_2P.fq.gz
+Approx 55% complete for V350129622_L01_89_2P.fq.gz
+Approx 60% complete for V350129622_L01_89_2P.fq.gz
+Approx 65% complete for V350129622_L01_89_2P.fq.gz
+Approx 70% complete for V350129622_L01_89_2P.fq.gz
+Approx 75% complete for V350129622_L01_89_2P.fq.gz
+Approx 80% complete for V350129622_L01_89_2P.fq.gz
+Approx 85% complete for V350129622_L01_89_2P.fq.gz
+Approx 90% complete for V350129622_L01_89_2P.fq.gz
+Approx 95% complete for V350129622_L01_89_2P.fq.gz
+Analysis complete for V350129622_L01_89_2P.fq.gz
+Working with V350129622_L01_90.
+ 
+Started analysis of V350129622_L01_90_1P.fq.gz
+Approx 5% complete for V350129622_L01_90_1P.fq.gz
+Approx 10% complete for V350129622_L01_90_1P.fq.gz
+Approx 15% complete for V350129622_L01_90_1P.fq.gz
+Approx 20% complete for V350129622_L01_90_1P.fq.gz
+Approx 25% complete for V350129622_L01_90_1P.fq.gz
+Approx 30% complete for V350129622_L01_90_1P.fq.gz
+Approx 35% complete for V350129622_L01_90_1P.fq.gz
+Approx 40% complete for V350129622_L01_90_1P.fq.gz
+Approx 45% complete for V350129622_L01_90_1P.fq.gz
+Approx 50% complete for V350129622_L01_90_1P.fq.gz
+Approx 55% complete for V350129622_L01_90_1P.fq.gz
+Approx 60% complete for V350129622_L01_90_1P.fq.gz
+Approx 65% complete for V350129622_L01_90_1P.fq.gz
+Approx 70% complete for V350129622_L01_90_1P.fq.gz
+Approx 75% complete for V350129622_L01_90_1P.fq.gz
+Approx 80% complete for V350129622_L01_90_1P.fq.gz
+Approx 85% complete for V350129622_L01_90_1P.fq.gz
+Approx 90% complete for V350129622_L01_90_1P.fq.gz
+Approx 95% complete for V350129622_L01_90_1P.fq.gz
+Analysis complete for V350129622_L01_90_1P.fq.gz
+Started analysis of V350129622_L01_90_2P.fq.gz
+Approx 5% complete for V350129622_L01_90_2P.fq.gz
+Approx 10% complete for V350129622_L01_90_2P.fq.gz
+Approx 15% complete for V350129622_L01_90_2P.fq.gz
+Approx 20% complete for V350129622_L01_90_2P.fq.gz
+Approx 25% complete for V350129622_L01_90_2P.fq.gz
+Approx 30% complete for V350129622_L01_90_2P.fq.gz
+Approx 35% complete for V350129622_L01_90_2P.fq.gz
+Approx 40% complete for V350129622_L01_90_2P.fq.gz
+Approx 45% complete for V350129622_L01_90_2P.fq.gz
+Approx 50% complete for V350129622_L01_90_2P.fq.gz
+Approx 55% complete for V350129622_L01_90_2P.fq.gz
+Approx 60% complete for V350129622_L01_90_2P.fq.gz
+Approx 65% complete for V350129622_L01_90_2P.fq.gz
+Approx 70% complete for V350129622_L01_90_2P.fq.gz
+Approx 75% complete for V350129622_L01_90_2P.fq.gz
+Approx 80% complete for V350129622_L01_90_2P.fq.gz
+Approx 85% complete for V350129622_L01_90_2P.fq.gz
+Approx 90% complete for V350129622_L01_90_2P.fq.gz
+Approx 95% complete for V350129622_L01_90_2P.fq.gz
+Analysis complete for V350129622_L01_90_2P.fq.gz
+Working with V350129622_L01_91.
+ 
+Started analysis of V350129622_L01_91_1P.fq.gz
+Approx 5% complete for V350129622_L01_91_1P.fq.gz
+Approx 10% complete for V350129622_L01_91_1P.fq.gz
+Approx 15% complete for V350129622_L01_91_1P.fq.gz
+Approx 20% complete for V350129622_L01_91_1P.fq.gz
+Approx 25% complete for V350129622_L01_91_1P.fq.gz
+Approx 30% complete for V350129622_L01_91_1P.fq.gz
+Approx 35% complete for V350129622_L01_91_1P.fq.gz
+Approx 40% complete for V350129622_L01_91_1P.fq.gz
+Approx 45% complete for V350129622_L01_91_1P.fq.gz
+Approx 50% complete for V350129622_L01_91_1P.fq.gz
+Approx 55% complete for V350129622_L01_91_1P.fq.gz
+Approx 60% complete for V350129622_L01_91_1P.fq.gz
+Approx 65% complete for V350129622_L01_91_1P.fq.gz
+Approx 70% complete for V350129622_L01_91_1P.fq.gz
+Approx 75% complete for V350129622_L01_91_1P.fq.gz
+Approx 80% complete for V350129622_L01_91_1P.fq.gz
+Approx 85% complete for V350129622_L01_91_1P.fq.gz
+Approx 90% complete for V350129622_L01_91_1P.fq.gz
+Approx 95% complete for V350129622_L01_91_1P.fq.gz
+Analysis complete for V350129622_L01_91_1P.fq.gz
+Started analysis of V350129622_L01_91_2P.fq.gz
+Approx 5% complete for V350129622_L01_91_2P.fq.gz
+Approx 10% complete for V350129622_L01_91_2P.fq.gz
+Approx 15% complete for V350129622_L01_91_2P.fq.gz
+Approx 20% complete for V350129622_L01_91_2P.fq.gz
+Approx 25% complete for V350129622_L01_91_2P.fq.gz
+Approx 30% complete for V350129622_L01_91_2P.fq.gz
+Approx 35% complete for V350129622_L01_91_2P.fq.gz
+Approx 40% complete for V350129622_L01_91_2P.fq.gz
+Approx 45% complete for V350129622_L01_91_2P.fq.gz
+Approx 50% complete for V350129622_L01_91_2P.fq.gz
+Approx 55% complete for V350129622_L01_91_2P.fq.gz
+Approx 60% complete for V350129622_L01_91_2P.fq.gz
+Approx 65% complete for V350129622_L01_91_2P.fq.gz
+Approx 70% complete for V350129622_L01_91_2P.fq.gz
+Approx 75% complete for V350129622_L01_91_2P.fq.gz
+Approx 80% complete for V350129622_L01_91_2P.fq.gz
+Approx 85% complete for V350129622_L01_91_2P.fq.gz
+Approx 90% complete for V350129622_L01_91_2P.fq.gz
+Approx 95% complete for V350129622_L01_91_2P.fq.gz
+Analysis complete for V350129622_L01_91_2P.fq.gz
+Working with V350129622_L01_92.
+ 
+Started analysis of V350129622_L01_92_1P.fq.gz
+Approx 5% complete for V350129622_L01_92_1P.fq.gz
+Approx 10% complete for V350129622_L01_92_1P.fq.gz
+Approx 15% complete for V350129622_L01_92_1P.fq.gz
+Approx 20% complete for V350129622_L01_92_1P.fq.gz
+Approx 25% complete for V350129622_L01_92_1P.fq.gz
+Approx 30% complete for V350129622_L01_92_1P.fq.gz
+Approx 35% complete for V350129622_L01_92_1P.fq.gz
+Approx 40% complete for V350129622_L01_92_1P.fq.gz
+Approx 45% complete for V350129622_L01_92_1P.fq.gz
+Approx 50% complete for V350129622_L01_92_1P.fq.gz
+Approx 55% complete for V350129622_L01_92_1P.fq.gz
+Approx 60% complete for V350129622_L01_92_1P.fq.gz
+Approx 65% complete for V350129622_L01_92_1P.fq.gz
+Approx 70% complete for V350129622_L01_92_1P.fq.gz
+Approx 75% complete for V350129622_L01_92_1P.fq.gz
+Approx 80% complete for V350129622_L01_92_1P.fq.gz
+Approx 85% complete for V350129622_L01_92_1P.fq.gz
+Approx 90% complete for V350129622_L01_92_1P.fq.gz
+Approx 95% complete for V350129622_L01_92_1P.fq.gz
+Analysis complete for V350129622_L01_92_1P.fq.gz
+Started analysis of V350129622_L01_92_2P.fq.gz
+Approx 5% complete for V350129622_L01_92_2P.fq.gz
+Approx 10% complete for V350129622_L01_92_2P.fq.gz
+Approx 15% complete for V350129622_L01_92_2P.fq.gz
+Approx 20% complete for V350129622_L01_92_2P.fq.gz
+Approx 25% complete for V350129622_L01_92_2P.fq.gz
+Approx 30% complete for V350129622_L01_92_2P.fq.gz
+Approx 35% complete for V350129622_L01_92_2P.fq.gz
+Approx 40% complete for V350129622_L01_92_2P.fq.gz
+Approx 45% complete for V350129622_L01_92_2P.fq.gz
+Approx 50% complete for V350129622_L01_92_2P.fq.gz
+Approx 55% complete for V350129622_L01_92_2P.fq.gz
+Approx 60% complete for V350129622_L01_92_2P.fq.gz
+Approx 65% complete for V350129622_L01_92_2P.fq.gz
+Approx 70% complete for V350129622_L01_92_2P.fq.gz
+Approx 75% complete for V350129622_L01_92_2P.fq.gz
+Approx 80% complete for V350129622_L01_92_2P.fq.gz
+Approx 85% complete for V350129622_L01_92_2P.fq.gz
+Approx 90% complete for V350129622_L01_92_2P.fq.gz
+Approx 95% complete for V350129622_L01_92_2P.fq.gz
+Analysis complete for V350129622_L01_92_2P.fq.gz
+Working with V350129622_L01_93.
+ 
+Started analysis of V350129622_L01_93_1P.fq.gz
+Approx 5% complete for V350129622_L01_93_1P.fq.gz
+Approx 10% complete for V350129622_L01_93_1P.fq.gz
+Approx 15% complete for V350129622_L01_93_1P.fq.gz
+Approx 20% complete for V350129622_L01_93_1P.fq.gz
+Approx 25% complete for V350129622_L01_93_1P.fq.gz
+Approx 30% complete for V350129622_L01_93_1P.fq.gz
+Approx 35% complete for V350129622_L01_93_1P.fq.gz
+Approx 40% complete for V350129622_L01_93_1P.fq.gz
+Approx 45% complete for V350129622_L01_93_1P.fq.gz
+Approx 50% complete for V350129622_L01_93_1P.fq.gz
+Approx 55% complete for V350129622_L01_93_1P.fq.gz
+Approx 60% complete for V350129622_L01_93_1P.fq.gz
+Approx 65% complete for V350129622_L01_93_1P.fq.gz
+Approx 70% complete for V350129622_L01_93_1P.fq.gz
+Approx 75% complete for V350129622_L01_93_1P.fq.gz
+Approx 80% complete for V350129622_L01_93_1P.fq.gz
+Approx 85% complete for V350129622_L01_93_1P.fq.gz
+Approx 90% complete for V350129622_L01_93_1P.fq.gz
+Approx 95% complete for V350129622_L01_93_1P.fq.gz
+Analysis complete for V350129622_L01_93_1P.fq.gz
+Started analysis of V350129622_L01_93_2P.fq.gz
+Approx 5% complete for V350129622_L01_93_2P.fq.gz
+Approx 10% complete for V350129622_L01_93_2P.fq.gz
+Approx 15% complete for V350129622_L01_93_2P.fq.gz
+Approx 20% complete for V350129622_L01_93_2P.fq.gz
+Approx 25% complete for V350129622_L01_93_2P.fq.gz
+Approx 30% complete for V350129622_L01_93_2P.fq.gz
+Approx 35% complete for V350129622_L01_93_2P.fq.gz
+Approx 40% complete for V350129622_L01_93_2P.fq.gz
+Approx 45% complete for V350129622_L01_93_2P.fq.gz
+Approx 50% complete for V350129622_L01_93_2P.fq.gz
+Approx 55% complete for V350129622_L01_93_2P.fq.gz
+Approx 60% complete for V350129622_L01_93_2P.fq.gz
+Approx 65% complete for V350129622_L01_93_2P.fq.gz
+Approx 70% complete for V350129622_L01_93_2P.fq.gz
+Approx 75% complete for V350129622_L01_93_2P.fq.gz
+Approx 80% complete for V350129622_L01_93_2P.fq.gz
+Approx 85% complete for V350129622_L01_93_2P.fq.gz
+Approx 90% complete for V350129622_L01_93_2P.fq.gz
+Approx 95% complete for V350129622_L01_93_2P.fq.gz
+Analysis complete for V350129622_L01_93_2P.fq.gz
+Working with V350129622_L01_94.
+ 
+Started analysis of V350129622_L01_94_1P.fq.gz
+Approx 5% complete for V350129622_L01_94_1P.fq.gz
+Approx 10% complete for V350129622_L01_94_1P.fq.gz
+Approx 15% complete for V350129622_L01_94_1P.fq.gz
+Approx 20% complete for V350129622_L01_94_1P.fq.gz
+Approx 25% complete for V350129622_L01_94_1P.fq.gz
+Approx 30% complete for V350129622_L01_94_1P.fq.gz
+Approx 35% complete for V350129622_L01_94_1P.fq.gz
+Approx 40% complete for V350129622_L01_94_1P.fq.gz
+Approx 45% complete for V350129622_L01_94_1P.fq.gz
+Approx 50% complete for V350129622_L01_94_1P.fq.gz
+Approx 55% complete for V350129622_L01_94_1P.fq.gz
+Approx 60% complete for V350129622_L01_94_1P.fq.gz
+Approx 65% complete for V350129622_L01_94_1P.fq.gz
+Approx 70% complete for V350129622_L01_94_1P.fq.gz
+Approx 75% complete for V350129622_L01_94_1P.fq.gz
+Approx 80% complete for V350129622_L01_94_1P.fq.gz
+Approx 85% complete for V350129622_L01_94_1P.fq.gz
+Approx 90% complete for V350129622_L01_94_1P.fq.gz
+Approx 95% complete for V350129622_L01_94_1P.fq.gz
+Analysis complete for V350129622_L01_94_1P.fq.gz
+Started analysis of V350129622_L01_94_2P.fq.gz
+Approx 5% complete for V350129622_L01_94_2P.fq.gz
+Approx 10% complete for V350129622_L01_94_2P.fq.gz
+Approx 15% complete for V350129622_L01_94_2P.fq.gz
+Approx 20% complete for V350129622_L01_94_2P.fq.gz
+Approx 25% complete for V350129622_L01_94_2P.fq.gz
+Approx 30% complete for V350129622_L01_94_2P.fq.gz
+Approx 35% complete for V350129622_L01_94_2P.fq.gz
+Approx 40% complete for V350129622_L01_94_2P.fq.gz
+Approx 45% complete for V350129622_L01_94_2P.fq.gz
+Approx 50% complete for V350129622_L01_94_2P.fq.gz
+Approx 55% complete for V350129622_L01_94_2P.fq.gz
+Approx 60% complete for V350129622_L01_94_2P.fq.gz
+Approx 65% complete for V350129622_L01_94_2P.fq.gz
+Approx 70% complete for V350129622_L01_94_2P.fq.gz
+Approx 75% complete for V350129622_L01_94_2P.fq.gz
+Approx 80% complete for V350129622_L01_94_2P.fq.gz
+Approx 85% complete for V350129622_L01_94_2P.fq.gz
+Approx 90% complete for V350129622_L01_94_2P.fq.gz
+Approx 95% complete for V350129622_L01_94_2P.fq.gz
+Analysis complete for V350129622_L01_94_2P.fq.gz
+Working with V350129622_L01_95.
+ 
+Started analysis of V350129622_L01_95_1P.fq.gz
+Approx 5% complete for V350129622_L01_95_1P.fq.gz
+Approx 10% complete for V350129622_L01_95_1P.fq.gz
+Approx 15% complete for V350129622_L01_95_1P.fq.gz
+Approx 20% complete for V350129622_L01_95_1P.fq.gz
+Approx 25% complete for V350129622_L01_95_1P.fq.gz
+Approx 30% complete for V350129622_L01_95_1P.fq.gz
+Approx 35% complete for V350129622_L01_95_1P.fq.gz
+Approx 40% complete for V350129622_L01_95_1P.fq.gz
+Approx 45% complete for V350129622_L01_95_1P.fq.gz
+Approx 50% complete for V350129622_L01_95_1P.fq.gz
+Approx 55% complete for V350129622_L01_95_1P.fq.gz
+Approx 60% complete for V350129622_L01_95_1P.fq.gz
+Approx 65% complete for V350129622_L01_95_1P.fq.gz
+Approx 70% complete for V350129622_L01_95_1P.fq.gz
+Approx 75% complete for V350129622_L01_95_1P.fq.gz
+Approx 80% complete for V350129622_L01_95_1P.fq.gz
+Approx 85% complete for V350129622_L01_95_1P.fq.gz
+Approx 90% complete for V350129622_L01_95_1P.fq.gz
+Approx 95% complete for V350129622_L01_95_1P.fq.gz
+Analysis complete for V350129622_L01_95_1P.fq.gz
+Started analysis of V350129622_L01_95_2P.fq.gz
+Approx 5% complete for V350129622_L01_95_2P.fq.gz
+Approx 10% complete for V350129622_L01_95_2P.fq.gz
+Approx 15% complete for V350129622_L01_95_2P.fq.gz
+Approx 20% complete for V350129622_L01_95_2P.fq.gz
+Approx 25% complete for V350129622_L01_95_2P.fq.gz
+Approx 30% complete for V350129622_L01_95_2P.fq.gz
+Approx 35% complete for V350129622_L01_95_2P.fq.gz
+Approx 40% complete for V350129622_L01_95_2P.fq.gz
+Approx 45% complete for V350129622_L01_95_2P.fq.gz
+Approx 50% complete for V350129622_L01_95_2P.fq.gz
+Approx 55% complete for V350129622_L01_95_2P.fq.gz
+Approx 60% complete for V350129622_L01_95_2P.fq.gz
+Approx 65% complete for V350129622_L01_95_2P.fq.gz
+Approx 70% complete for V350129622_L01_95_2P.fq.gz
+Approx 75% complete for V350129622_L01_95_2P.fq.gz
+Approx 80% complete for V350129622_L01_95_2P.fq.gz
+Approx 85% complete for V350129622_L01_95_2P.fq.gz
+Approx 90% complete for V350129622_L01_95_2P.fq.gz
+Approx 95% complete for V350129622_L01_95_2P.fq.gz
+Analysis complete for V350129622_L01_95_2P.fq.gz
+Working with V350129622_L01_96.
+ 
+Started analysis of V350129622_L01_96_1P.fq.gz
+Approx 5% complete for V350129622_L01_96_1P.fq.gz
+Approx 10% complete for V350129622_L01_96_1P.fq.gz
+Approx 15% complete for V350129622_L01_96_1P.fq.gz
+Approx 20% complete for V350129622_L01_96_1P.fq.gz
+Approx 25% complete for V350129622_L01_96_1P.fq.gz
+Approx 30% complete for V350129622_L01_96_1P.fq.gz
+Approx 35% complete for V350129622_L01_96_1P.fq.gz
+Approx 40% complete for V350129622_L01_96_1P.fq.gz
+Approx 45% complete for V350129622_L01_96_1P.fq.gz
+Approx 50% complete for V350129622_L01_96_1P.fq.gz
+Approx 55% complete for V350129622_L01_96_1P.fq.gz
+Approx 60% complete for V350129622_L01_96_1P.fq.gz
+Approx 65% complete for V350129622_L01_96_1P.fq.gz
+Approx 70% complete for V350129622_L01_96_1P.fq.gz
+Approx 75% complete for V350129622_L01_96_1P.fq.gz
+Approx 80% complete for V350129622_L01_96_1P.fq.gz
+Approx 85% complete for V350129622_L01_96_1P.fq.gz
+Approx 90% complete for V350129622_L01_96_1P.fq.gz
+Approx 95% complete for V350129622_L01_96_1P.fq.gz
+Analysis complete for V350129622_L01_96_1P.fq.gz
+Started analysis of V350129622_L01_96_2P.fq.gz
+Approx 5% complete for V350129622_L01_96_2P.fq.gz
+Approx 10% complete for V350129622_L01_96_2P.fq.gz
+Approx 15% complete for V350129622_L01_96_2P.fq.gz
+Approx 20% complete for V350129622_L01_96_2P.fq.gz
+Approx 25% complete for V350129622_L01_96_2P.fq.gz
+Approx 30% complete for V350129622_L01_96_2P.fq.gz
+Approx 35% complete for V350129622_L01_96_2P.fq.gz
+Approx 40% complete for V350129622_L01_96_2P.fq.gz
+Approx 45% complete for V350129622_L01_96_2P.fq.gz
+Approx 50% complete for V350129622_L01_96_2P.fq.gz
+Approx 55% complete for V350129622_L01_96_2P.fq.gz
+Approx 60% complete for V350129622_L01_96_2P.fq.gz
+Approx 65% complete for V350129622_L01_96_2P.fq.gz
+Approx 70% complete for V350129622_L01_96_2P.fq.gz
+Approx 75% complete for V350129622_L01_96_2P.fq.gz
+Approx 80% complete for V350129622_L01_96_2P.fq.gz
+Approx 85% complete for V350129622_L01_96_2P.fq.gz
+Approx 90% complete for V350129622_L01_96_2P.fq.gz
+Approx 95% complete for V350129622_L01_96_2P.fq.gz
+Analysis complete for V350129622_L01_96_2P.fq.gz
+Working with V350129622_L01_97.
+ 
+Started analysis of V350129622_L01_97_1P.fq.gz
+Approx 5% complete for V350129622_L01_97_1P.fq.gz
+Approx 10% complete for V350129622_L01_97_1P.fq.gz
+Approx 15% complete for V350129622_L01_97_1P.fq.gz
+Approx 20% complete for V350129622_L01_97_1P.fq.gz
+Approx 25% complete for V350129622_L01_97_1P.fq.gz
+Approx 30% complete for V350129622_L01_97_1P.fq.gz
+Approx 35% complete for V350129622_L01_97_1P.fq.gz
+Approx 40% complete for V350129622_L01_97_1P.fq.gz
+Approx 45% complete for V350129622_L01_97_1P.fq.gz
+Approx 50% complete for V350129622_L01_97_1P.fq.gz
+Approx 55% complete for V350129622_L01_97_1P.fq.gz
+Approx 60% complete for V350129622_L01_97_1P.fq.gz
+Approx 65% complete for V350129622_L01_97_1P.fq.gz
+Approx 70% complete for V350129622_L01_97_1P.fq.gz
+Approx 75% complete for V350129622_L01_97_1P.fq.gz
+Approx 80% complete for V350129622_L01_97_1P.fq.gz
+Approx 85% complete for V350129622_L01_97_1P.fq.gz
+Approx 90% complete for V350129622_L01_97_1P.fq.gz
+Approx 95% complete for V350129622_L01_97_1P.fq.gz
+Analysis complete for V350129622_L01_97_1P.fq.gz
+Started analysis of V350129622_L01_97_2P.fq.gz
+Approx 5% complete for V350129622_L01_97_2P.fq.gz
+Approx 10% complete for V350129622_L01_97_2P.fq.gz
+Approx 15% complete for V350129622_L01_97_2P.fq.gz
+Approx 20% complete for V350129622_L01_97_2P.fq.gz
+Approx 25% complete for V350129622_L01_97_2P.fq.gz
+Approx 30% complete for V350129622_L01_97_2P.fq.gz
+Approx 35% complete for V350129622_L01_97_2P.fq.gz
+Approx 40% complete for V350129622_L01_97_2P.fq.gz
+Approx 45% complete for V350129622_L01_97_2P.fq.gz
+Approx 50% complete for V350129622_L01_97_2P.fq.gz
+Approx 55% complete for V350129622_L01_97_2P.fq.gz
+Approx 60% complete for V350129622_L01_97_2P.fq.gz
+Approx 65% complete for V350129622_L01_97_2P.fq.gz
+Approx 70% complete for V350129622_L01_97_2P.fq.gz
+Approx 75% complete for V350129622_L01_97_2P.fq.gz
+Approx 80% complete for V350129622_L01_97_2P.fq.gz
+Approx 85% complete for V350129622_L01_97_2P.fq.gz
+Approx 90% complete for V350129622_L01_97_2P.fq.gz
+Approx 95% complete for V350129622_L01_97_2P.fq.gz
+Analysis complete for V350129622_L01_97_2P.fq.gz
+Working with V350129622_L01_98.
+ 
+Started analysis of V350129622_L01_98_1P.fq.gz
+Approx 5% complete for V350129622_L01_98_1P.fq.gz
+Approx 10% complete for V350129622_L01_98_1P.fq.gz
+Approx 15% complete for V350129622_L01_98_1P.fq.gz
+Approx 20% complete for V350129622_L01_98_1P.fq.gz
+Approx 25% complete for V350129622_L01_98_1P.fq.gz
+Approx 30% complete for V350129622_L01_98_1P.fq.gz
+Approx 35% complete for V350129622_L01_98_1P.fq.gz
+Approx 40% complete for V350129622_L01_98_1P.fq.gz
+Approx 45% complete for V350129622_L01_98_1P.fq.gz
+Approx 50% complete for V350129622_L01_98_1P.fq.gz
+Approx 55% complete for V350129622_L01_98_1P.fq.gz
+Approx 60% complete for V350129622_L01_98_1P.fq.gz
+Approx 65% complete for V350129622_L01_98_1P.fq.gz
+Approx 70% complete for V350129622_L01_98_1P.fq.gz
+Approx 75% complete for V350129622_L01_98_1P.fq.gz
+Approx 80% complete for V350129622_L01_98_1P.fq.gz
+Approx 85% complete for V350129622_L01_98_1P.fq.gz
+Approx 90% complete for V350129622_L01_98_1P.fq.gz
+Approx 95% complete for V350129622_L01_98_1P.fq.gz
+Analysis complete for V350129622_L01_98_1P.fq.gz
+Started analysis of V350129622_L01_98_2P.fq.gz
+Approx 5% complete for V350129622_L01_98_2P.fq.gz
+Approx 10% complete for V350129622_L01_98_2P.fq.gz
+Approx 15% complete for V350129622_L01_98_2P.fq.gz
+Approx 20% complete for V350129622_L01_98_2P.fq.gz
+Approx 25% complete for V350129622_L01_98_2P.fq.gz
+Approx 30% complete for V350129622_L01_98_2P.fq.gz
+Approx 35% complete for V350129622_L01_98_2P.fq.gz
+Approx 40% complete for V350129622_L01_98_2P.fq.gz
+Approx 45% complete for V350129622_L01_98_2P.fq.gz
+Approx 50% complete for V350129622_L01_98_2P.fq.gz
+Approx 55% complete for V350129622_L01_98_2P.fq.gz
+Approx 60% complete for V350129622_L01_98_2P.fq.gz
+Approx 65% complete for V350129622_L01_98_2P.fq.gz
+Approx 70% complete for V350129622_L01_98_2P.fq.gz
+Approx 75% complete for V350129622_L01_98_2P.fq.gz
+Approx 80% complete for V350129622_L01_98_2P.fq.gz
+Approx 85% complete for V350129622_L01_98_2P.fq.gz
+Approx 90% complete for V350129622_L01_98_2P.fq.gz
+Approx 95% complete for V350129622_L01_98_2P.fq.gz
+Analysis complete for V350129622_L01_98_2P.fq.gz
+24
